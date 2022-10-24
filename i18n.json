@@ -1,0 +1,9 @@
+{
+    "locales": ["en-US", "ko", "vn"],
+    "defaultLocale": "vn",
+    "localeDetection": true,
+    "pages": {
+      "*": ["common"],
+      "/about": ["about"]
+    }
+  }
